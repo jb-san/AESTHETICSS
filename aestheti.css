@@ -193,3 +193,8 @@
   pointer-events: none;
   animation: flicker 0.15s infinite;
 }
+
+h1 {
+  letter-spacing: 2rem;
+  color: #fff;
+}
