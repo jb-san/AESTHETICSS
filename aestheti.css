@@ -197,4 +197,13 @@
 h1 {
   letter-spacing: 2rem;
   color: #fff;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.window {
+  background: linear-gradient(var(--color-yamashiro), var(--color-yahagi));
+}
+
+.grid {
 }
